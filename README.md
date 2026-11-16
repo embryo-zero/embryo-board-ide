@@ -1,3 +1,10 @@
+<!-- embryo-brand -->
+# Embryo Board IDE
+
+**Embryo Board IDE** is Embryo-Zero's fork of [arduino-ide](https://github.com/arduino/arduino-ide), made by Embryo Zero Backyard Data Center Corporation. Our changes are on the `embryo` branch; see [EMBRYO.md](EMBRYO.md), [LEGAL.md](LEGAL.md) and [CHANGES-EMBRYO.md](CHANGES-EMBRYO.md). The original project's README follows unchanged, with its authors' credits.
+
+---
+
 <img src="https://content.arduino.cc/website/Arduino_logo_teal.svg" height="100" align="right" />
 
 # Arduino IDE 2.x
