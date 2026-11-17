@@ -98,7 +98,7 @@ jobs:
         run: yarn --cwd electron-app package
 
       - name: Upload builds to job transfer artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v7
         with:
           name: ${{ env.JOB_TRANSFER_ARTIFACT }}
           path: ${{ env.WORKING_DIRECTORY }}/${{ env.BUILD_ARTIFACTS_PATH }}
